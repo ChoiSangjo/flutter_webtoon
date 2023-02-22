@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "78003b1e221ce2b7752527f4fc75f12e25f116f06f678da51942c2bf2775441a"
+build_start_time: [1676885003, 975538969]
+build_end_time: [1676885009, 232461929]
+inputs:
+  "/Users/user/webtoon_s/flutter_webtoon/macos/Flutter/GeneratedPluginRegistrant.swift": [1676884993, 319375514]
+  "/Users/user/webtoon_s/flutter_webtoon/macos/Runner/AppDelegate.swift": [1675285506, 0]
+  "/Users/user/webtoon_s/flutter_webtoon/macos/Runner/MainFlutterWindow.swift": [1675285506, 0]
