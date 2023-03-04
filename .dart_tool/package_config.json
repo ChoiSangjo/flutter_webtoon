@@ -15,7 +15,7 @@
     },
     {
       "name": "characters",
-      "rootUri": "file:///Users/user/.pub-cache/hosted/pub.dev/characters-1.2.1",
+      "rootUri": "file:///Users/user/.pub-cache/hosted/pub.dev/characters-1.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -170,7 +170,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-02-21T14:32:27.100052Z",
+  "generated": "2023-03-04T01:53:02.833159Z",
   "generator": "pub",
-  "generatorVersion": "3.0.0-204.0.dev"
+  "generatorVersion": "3.0.0-290.0.dev"
 }
